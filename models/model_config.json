@@ -1,0 +1,16 @@
+{
+    "features": [
+        "type_TRANSFER",
+        "log_amount",
+        "log_old_bal_orig",
+        "log_old_bal_dest",
+        "usage_ratio",
+        "drains_account",
+        "orig_zero_before",
+        "dest_zero_both",
+        "is_night",
+        "hour",
+        "log_dest_count"
+    ],
+    "threshold": 0.5
+}
